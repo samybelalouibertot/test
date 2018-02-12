@@ -3,6 +3,7 @@ ceci est un texte
 fin
 
 
+fin intermediaire
 
 
 nouvelle fin
